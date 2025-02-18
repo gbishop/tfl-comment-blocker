@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "TFL noise blocker",
+  "version": "1.0",
+  "description": "Block comments from some users on The Fresh Loaf",
+  "content_scripts": [
+    {
+      "js": ["scripts/content.js"],
+      "matches": ["https://www.thefreshloaf.com/*"]
+    }
+  ]
+}
