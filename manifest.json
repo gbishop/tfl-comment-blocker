@@ -5,7 +5,7 @@
   "description": "Block comments from some users on The Fresh Loaf",
   "content_scripts": [
     {
-      "js": ["scripts/content.js"],
+      "css": ["scripts/content.css"],
       "matches": ["https://www.thefreshloaf.com/*"]
     }
   ]
