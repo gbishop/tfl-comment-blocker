@@ -8,6 +8,6 @@ To use this with Chrome:
 3. Click the "Load unpacked" button and select the folder with the code.
 
 When you visit the site comments from any of the user ids listed in the
-scripts.js file will disappear.
+content.css file will disappear.
 
 This could be much more user friendly.
